@@ -1,0 +1,18 @@
+# Python virtual environment
+/backend/venv/
+
+# Python cache files
+/backend/__pycache__/
+/backend/*.pyc
+
+# Frontend dependencies (very large folder)
+/frontend/node_modules/
+
+# Secret keys and environment variables
+/frontend/.env
+
+# Local map data file (can be regenerated)
+/backend/map.graphml
+
+# VS Code settings
+.vscode/
