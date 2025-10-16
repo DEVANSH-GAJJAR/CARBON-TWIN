@@ -101,3 +101,10 @@ npm start
 ```
 
 this runs at localhost:3000
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/)
+[![React](https://img.shields.io/badge/Frontend-React.js-61DAFB.svg)](https://react.dev/)
+[![Flask](https://img.shields.io/badge/Backend-Flask-000000.svg)](https://flask.palletsprojects.com/)
+[![MapLibre](https://img.shields.io/badge/Map-MapLibre%20GL%20JS-3CB371.svg)](https://maplibre.org/)
+[![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-orange.svg)](https://openweathermap.org/)
