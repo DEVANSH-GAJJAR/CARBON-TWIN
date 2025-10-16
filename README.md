@@ -61,3 +61,18 @@ pip install Flask Flask-Cors osmnx requests numpy paho-mqtt shapely
 # Download local map data (one-time step)
 python download_map.py
 ```
+
+### 3️⃣ Setup the Frontend 
+
+```bash
+# Go to the frontend directory
+cd frontend
+
+# Install dependencies
+npm install
+
+```
+Create a  .env  in frontend and add: 
+```bash
+REACT_APP_MAPTILER_KEY=YOUR_MAPTILER_API_KEY
+```
