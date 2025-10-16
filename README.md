@@ -76,3 +76,28 @@ Create a  .env  in frontend and add:
 ```bash
 REACT_APP_MAPTILER_KEY=YOUR_MAPTILER_API_KEY
 ```
+---
+
+### 🏃‍♂️ Usage
+
+You’ll need two separate terminals.
+
+Terminal 1 – Run the Backend Server
+
+```bash 
+# From /backend
+.\venv\Scripts\activate
+python app.py
+
+```
+
+Terminal 2 – Run the Frontend App
+
+```bash
+
+# From /frontend
+npm start
+
+```
+
+this runs at localhost:3000
